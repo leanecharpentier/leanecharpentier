@@ -4,8 +4,8 @@
 
 ## About me
 
-I'm 20 years old. <br>
-I study at MyDigitalSchool Angers and I'm work-study as backend developper at Eisox (Angers). <br>
+I'm 22 years old. <br>
+I study at MyDigitalSchool Angers and I'm work-study as fullstack developper at eKonsilio (Le Mans). <br>
 I'm based on Angers and Le Mans. <br>
 
 ## My Skills
